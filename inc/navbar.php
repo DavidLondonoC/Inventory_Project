@@ -60,7 +60,7 @@
                 <a class="button is-primary is-rounded">
                     <strong>My Account</strong>
                 </a>
-                <a class="button is-link is-rounded">
+                <a href = "index.php?=views=logout"  class = "button is-link is-rounded">
                     <strong>Leave</strong>
 
                 </a>

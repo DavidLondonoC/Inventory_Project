@@ -26,7 +26,7 @@ function dataCheck ($filter, $string): bool {
 }
 
 
-
+#Funtions--------------------------
 
 
 #Clean strings
